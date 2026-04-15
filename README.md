@@ -1,6 +1,6 @@
 <!-- Animated Wave Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:00ff9f&height=200&section=header&text=Lojana%20Sarma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Developer%20%7C%20Cyber%20Nerd%20🔐&descAlignY=58&descSize=18&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:00ff9f&height=200&section=header&text=Lojana%20sarma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Developer%20%7C%20Cyber%20Nerd%20🔐&descAlignY=58&descSize=18&animation=twinkling" />
 </div>
 
 <!-- Typing Animation -->
@@ -138,5 +138,5 @@ Designed and implemented a small enterprise network from scratch — routing, sw
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,100:00d4ff&height=120&section=footer&text=Thanks+for+stopping+by!+👋&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,100:00d4ff&height=120&section=footer&text=Thanks+for+visiting!+Currently+debugging+life+and+code+🐛💻&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
 </div>
