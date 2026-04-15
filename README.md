@@ -1,19 +1,125 @@
-<!-- Header Animated Banner -->
+<!-- Animated Wave Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:00ff9f&height=200&section=header&text=Lojana%20Sarma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Developer%20%7C%20Cyber%20Nerd%20🔐&descAlignY=58&descSize=18&animation=twinkling" />
+</div>
+
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Lojana+👋;Year+1+IT+Undergrad+%40+SLIIT+🎓;Coding+in+Java+%26+Python+☕🐍;Building+the+future+of+secure+systems+🔐;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- Badges Row -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓_SLIIT-Year_1_Sem_2-00d4ff?style=flat-square&labelColor=0a1520" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔐_Goal-Cybersecurity-00ff9f?style=flat-square&labelColor=0a1520" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/⚡_Status-Always_Coding-7b61ff?style=flat-square&labelColor=0a1520" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=lojanasarma&color=00d4ff&style=flat-square&label=Profile+Visits" />
+</div>
+
+---
+
+## 👾 About Me
+
+```bash
+$ whoami
+> Lojana Sarma — IT undergrad who actually enjoys debugging at 2am 🌙
+
+$ cat interests.txt
+> 🔐 Cybersecurity (my endgame)
+> 🌐 Full-Stack Web Dev
+> 🤖 IoT & Hardware hacking
+> 🧠 Problem solving on LeetCode & HackerRank
+
+$ echo $university
+> SLIIT — BSc (Hons) Information Technology
+
+$ git log --oneline --current
+> 📱 Building a University Web Application
+> 🌿 Automated Cloth Drying System (IoT)
+> 🔗 Enterprise Network Design
+
+$ sudo apt-get install motivation
+> Already installed. Version: ∞ 🚀
+```
+
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌿 Automated Cloth Drying System
+> **Type:** IoT Project
+
+Smart system that automatically detects weather conditions and controls a cloth drying rack — no more wet clothes on rainy days! ☔➡️☀️
+
+`Arduino` `IoT Sensors` `Embedded C`
+
+</td>
+<td width="50%">
+
+### 🔗 Enterprise Network Infrastructure
+> **Type:** Network Design · Group Project
+
+Designed and implemented a small enterprise network from scratch — routing, switching, security policies and all! 🏢
+
+`Cisco` `Network Protocols` `Subnetting`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-```
-██╗      ██████╗      ██╗ █████╗ ███╗   ██╗ █████╗
-██║     ██╔═══██╗     ██║██╔══██╗████╗  ██║██╔══██╗
-██║     ██║   ██║     ██║███████║██╔██╗ ██║███████║
-██║     ██║   ██║██   ██║██╔══██║██║╚██╗██║██╔══██║
-███████╗╚██████╔╝╚█████╔╝██║  ██║██║ ╚████║██║  ██║
-╚══════╝ ╚═════╝  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-                      S A R M A
-```
+**Languages I speak (to computers 😄)**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=IT+Undergraduate+%40+SLIIT;Full-Stack+Developer+%7C+Cybersecurity+Enthusiast" alt="Typing SVG" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=500&color=00FF9F&center=true&vCenter=true&width=600&height=30&lines=%24+whoami+%E2%86%92+Fast+learner.+Problem+solver.+Builder." alt="whoami" />
+**Frontend magic ✨**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend & databases 🗄️**
+
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools I love 🧰**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lojanasarma&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&text_color=ffffff&bg_color=050a0f" height="160" alt="Top Languages" />
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lojanasarma/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_lojan_sarma_)
@@ -24,97 +130,6 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="220" />
-
-### `$ cat about_me.txt`
-
-```yaml
-name        : Lojana Sarma
-university  : SLIIT (Sri Lanka Institute of IT)
-degree      : BSc (Hons) Information Technology
-year        : Year 1 · Semester 2
-languages   : [Java, Python, JavaScript]
-interests   : [Cybersecurity, Full-Stack Dev, IoT]
-goal        : Specialize in Cybersecurity Systems
-status      : Building a University Web Application 🚀
-```
-
-> *"Turning ideas into practical, secure, and reliable solutions."*
-
----
-
-### `$ ls -la /projects`
-
 <div align="center">
-
-| 🔬 Type | 📁 Project | 🛠️ Tech |
-|---------|-----------|---------|
-| **IoT** | Automated Cloth Drying System | Arduino, IoT Sensors |
-| **Network Design** | Small Enterprise Network Infrastructure | Cisco, Network Protocols |
-
-</div>
-
----
-
-### `$ tech --stack`
-
-<div align="center">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend & DB**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Hardware**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-</div>
-
----
-
-### `$ cat stats.json`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lojanasarma&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&icon_color=00FF9F&text_color=e8f4ff&bg_color=050a0f" alt="Top Languages" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=lojanasarma&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-### `$ ping cybersecurity`
-
-```
-> Targeting: Cybersecurity Specialization
-> Building: Secure & Reliable Systems
-> Learning: Every. Single. Day.
-
-PING successful ✓ — Mission in progress...
-```
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=7B61FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let%27s+connect+and+build+something+amazing!" alt="Footer" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,100:00d4ff&height=120&section=footer&text=Thanks+for+stopping+by!+👋&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
 </div>
