@@ -110,14 +110,13 @@ Designed and implemented a small enterprise network from scratch — routing, sw
 ---
 
 ## 📊 GitHub Stats
-# My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lojanasarma&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=lojanasarma&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojanasarma&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lojanasarma&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
