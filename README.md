@@ -111,21 +111,13 @@ Designed and implemented a small enterprise network from scratch — routing, sw
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats Section -->
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lojanasarma&show_icons=true&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&text_color=ffffff&bg_color=050a0f" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lojanasarma&show_icons=true&theme=tokyonight" height="170"/>
 
   <br/><br/>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojanasarma&layout=compact&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&text_color=ffffff&bg_color=050a0f" height="170" alt="Top Languages" />
-
-  <br/><br/>
-
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=lojanasarma&theme=tokyonight&border=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lojanasarma&layout=compact&theme=tokyonight" height="170"/>
 
 </div>
 ---
