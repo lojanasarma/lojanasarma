@@ -116,7 +116,7 @@ Designed and implemented a small enterprise network from scratch — routing, sw
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=lojanasarma&layout=donut&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,github,idea" />
 </p>
 
 <p align="center">
