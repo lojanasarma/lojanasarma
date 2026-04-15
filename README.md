@@ -112,9 +112,8 @@ Designed and implemented a small enterprise network from scratch — routing, sw
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lojanasarma&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=00D4FF&title_color=00D4FF&text_color=ffffff&bg_color=050a0f" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lojanasarma&layout=compact&theme=tokyonight" height="160" />
 </div>
-
 ---
 
 ## 🌐 Let's Connect!
