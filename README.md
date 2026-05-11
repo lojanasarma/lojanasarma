@@ -1,4 +1,18 @@
 <!-- Animated Wave Header -->
+<h1 style="
+  font-size: 3.5rem;
+  font-weight: 900;
+  background: linear-gradient(90deg, #FC210D, #FF7A18, #F7CE38);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow:
+    0 0 10px rgba(252, 33, 13, 0.35),
+    0 0 20px rgba(255, 122, 24, 0.25),
+    0 0 30px rgba(247, 206, 56, 0.2);
+  margin-bottom: 10px;
+">
+  Home Tutor Search & Booking System
+</h1>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:00ff9f&height=200&section=header&text=Lojana%20sarma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Developer%20%7C%20Cyber%20Nerd%20🔐&descAlignY=58&descSize=18&animation=twinkling" />
 </div>
