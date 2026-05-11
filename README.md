@@ -1,5 +1,8 @@
 <!-- Animated Wave Header -->
-<h1 style="
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:00ff9f&height=200&section=header&text=Lojana%20sarma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Developer%20%7C%20Cyber%20Nerd%20🔐&descAlignY=58&descSize=18&animation=twinkling" />
+  <h1 style="
   font-size: 3.5rem;
   font-weight: 900;
   background: linear-gradient(90deg, #FC210D, #FF7A18, #F7CE38);
@@ -13,8 +16,6 @@
 ">
   Home Tutor Search & Booking System
 </h1>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:00ff9f&height=200&section=header&text=Lojana%20sarma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Developer%20%7C%20Cyber%20Nerd%20🔐&descAlignY=58&descSize=18&animation=twinkling" />
 </div>
 
 <!-- Typing Animation -->
