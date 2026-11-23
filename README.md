@@ -167,7 +167,7 @@ Cyber Security specialisation modules in progress.
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Year 2 · Semester 1</strong> — Completed</summary>
 
 <br>
@@ -181,7 +181,7 @@ Cyber Security specialisation modules in progress.
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Year 1 · Semester 2</strong> — Completed</summary>
 
 <br>
@@ -196,7 +196,7 @@ Cyber Security specialisation modules in progress.
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Year 1 · Semester 1</strong> — Completed</summary>
 
 <br>
